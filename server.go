@@ -919,7 +919,7 @@ var (
 		AssignAnchor:               false,
 		AllowAdditionalProperties:  true,
 		RequiredFromJSONSchemaTags: true,
-		DoNotReference:             true,
+		DoNotReference:             false,
 		ExpandedStruct:             true,
 		FieldNameTag:               "",
 		IgnoredTypes:               nil,
